@@ -1,4 +1,3 @@
-# Import the Add function, and assert that it works correctly.
 from main import Add
 
 def TestAdd():
